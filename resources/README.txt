@@ -1,0 +1,1 @@
+The markers were created in the GEM library newBuild markers2Image tool folder using the markers.yml file created using the aruco hrm create dictionary (high reliability markers)
